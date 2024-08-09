@@ -54,6 +54,7 @@ public class BlabController {
 					             + "WHERE listeners.listener = ? GROUP BY blabs.blabid ORDER BY blabs.timestamp DESC;";
 			
 			try {
+				// Test
 				logger.info("Getting Database connection");
 				// Get the Database Connection
 				Class.forName("com.mysql.jdbc.Driver");
