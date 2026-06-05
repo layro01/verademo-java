@@ -1,8 +1,6 @@
 # VeraDemo - Blab-a-Gag
 
-## About
-
-Test
+## About 2
 
 Blab-a-Gag is a fairly simple forum type application which allows:
  - users to post a one-liner joke
@@ -80,5 +78,3 @@ However, I have not been able to get this to work. Instead, I had to create the 
 ```
 set CATALINA_OPTS=%CATALINA_OPTS% -agentpath:C:\iast\agent\agent_win64.dll
 ```
-
-Happy IAST'ing!
